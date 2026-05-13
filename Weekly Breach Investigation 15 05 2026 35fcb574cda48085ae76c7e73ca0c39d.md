@@ -103,7 +103,7 @@ When Instructure didn't move fast enough, the group came back on May 7th and def
 > <aside>
 > 📋
 > 
-> - the second wave. The initial breach was bad enough, but coming back two weeks later and defacing the login pages of 330 universities — that's not just extortion, that's a public humiliation campaign designed to maximize pressure. It worked. Instructure paid.
+> - the second wave. The initial breach was bad enough, but coming back two weeks later and defacing the login pages of 330 universities that's not just extortion, that's a public humiliation campaign designed to maximize pressure. It worked. Instructure paid.
 > </aside>
 > 
 
